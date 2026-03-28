@@ -17,7 +17,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "price": "$1,500,000",
-    "playerImage": "https://example.com/images/ben_stokes.jpg"
+    "playerImage": "https://i.ibb.co.com/tPYpRmtk/45873-list.jpg"
   },
   {
     "playerName": "Rashid Khan",
@@ -27,7 +27,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm leg-spin",
     "price": "$1,200,000",
-    "playerImage": "https://example.com/images/rashid_khan.jpg"
+    "playerImage": "https://i.ibb.co.com/3yXC94sF/images-2.webp"
   },
   {
     "playerName": "Steve Smith",
@@ -37,7 +37,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm leg-spin",
     "price": "$1,800,000",
-    "playerImage": "https://example.com/images/steve_smith.jpg"
+    "playerImage": "https://i.ibb.co.com/VYfqPsx9/779p0q78-steve-smith-afp-625x300-29-January-25.webp"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -47,6 +47,46 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": "$2,200,000",
-    "playerImage": "https://example.com/images/jasprit_bumrah.jpg"
+    "playerImage": "https://i.ibb.co.com/yn4pkGHm/AFP-20241122-36-N39-GM-v1-High-Res-Cricket-Aus-Ind-1733131187.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$1,700,000",
+    "playerImage": "https://i.ibb.co.com/bjC33kzY/babs091101.jpg"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "$1,600,000",
+    "playerImage": "https://i.ibb.co.com/sJmWXrzY/kane-williamson-blog-image.webp"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 9.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": "$1,400,000",
+    "playerImage": "https://i.ibb.co.com/bM6dgRNV/Shaheen-Afridi-2.jpg"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 9.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": "$1,900,000",
+    "playerImage": "https://i.ibb.co.com/CKW5Y4F4/shakib-glass-25-01-2026.jpg"
   }
 ]
