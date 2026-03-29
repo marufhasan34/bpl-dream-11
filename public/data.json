@@ -6,7 +6,7 @@
     "rating": 9.8,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": "$2,000,000",
+    "price": 200000,
     "playerImage": "https://i.ibb.co.com/8ncy9JV4/kohli231007.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 9.5,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": "$1,500,000",
+    "price": 150000,
     "playerImage": "https://i.ibb.co.com/tPYpRmtk/45873-list.jpg"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 9.2,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm leg-spin",
-    "price": "$1,200,000",
+    "price": 120000,
     "playerImage": "https://i.ibb.co.com/3yXC94sF/images-2.webp"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 9.0,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm leg-spin",
-    "price": "$1,800,000",
+    "price": 180000,
     "playerImage": "https://i.ibb.co.com/VYfqPsx9/779p0q78-steve-smith-afp-625x300-29-January-25.webp"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 9.6,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": "$2,200,000",
+    "price": 220000,
     "playerImage": "https://i.ibb.co.com/yn4pkGHm/AFP-20241122-36-N39-GM-v1-High-Res-Cricket-Aus-Ind-1733131187.webp"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": "$1,700,000",
+    "price": 170000,
     "playerImage": "https://i.ibb.co.com/bjC33kzY/babs091101.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 9.3,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": "$1,600,000",
+    "price": 160000,
     "playerImage": "https://i.ibb.co.com/sJmWXrzY/kane-williamson-blog-image.webp"
   },
   {
@@ -76,7 +76,7 @@
     "rating": 9.1,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": "$1,400,000",
+    "price": 140000,
     "playerImage": "https://i.ibb.co.com/bM6dgRNV/Shaheen-Afridi-2.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "rating": 9.7,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
-    "price": "$1,900,000",
+    "price": 190000,
     "playerImage": "https://i.ibb.co.com/CKW5Y4F4/shakib-glass-25-01-2026.jpg"
   }
 ]
