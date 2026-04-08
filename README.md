@@ -1,16 +1,39 @@
-# React + Vite
+# 🏏 BPL Dream 11 Resources
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> An interactive Fantasy Cricket Team Builder app — select BPL (Bangladesh Premier League) players and create your own Dream 11-style team!
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [https://bpl-dream-11-resources.netlify.app/](https://bpl-dream-11-resources.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📖 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**BPL Dream 11 Resources** is a web application where users can select players from the BPL and build their own fantasy cricket team.  
+It follows the basic fantasy cricket concept — selecting players within a budget to create a strong team.  
 
-## Expanding the ESLint configuration
+*(The live site may be in development, so UI or data might be updated later.)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Key Features
+
+- Browse the list of BPL players  
+- View player details: name, role, rating  
+- Build your **Dream 11-style team**  
+- Budget / coin‑credit system  
+- Responsive and user-friendly interface  
+
+---
+
+## 📦 Technologies Used
+
+- **React.js** – UI development  
+- **Tailwind CSS / DaisyUI** – Styling  
+- **JavaScript** – Logic  
+- **Netlify** – Deployment  
+- Optional: React‑Toastify for notifications  
+- JSON file or API to load player data  
+
+---
+
+## 🌟 Suggested Project Structure
